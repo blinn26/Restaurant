@@ -6,6 +6,7 @@
 .reservation__form {
     margin: auto;
     max-width: 385px;
+    font-weight: bold;
 
 }
 
@@ -21,4 +22,5 @@
     margin: 0;
     font-size: 44px;
     color: #000435;
+    font-weight: bold;
 }
