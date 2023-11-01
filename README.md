@@ -1,5 +1,9 @@
 # Restaurant
 
+### LINK TO PROJECT
+
+https://youtu.be/SdZ0BeioRUs
+
 ## 🚀 This project emphasizes semantic HTML and responsive design using BEM conventions. The clean and structured code ensures that users can easily modify it, making it ideal for open-source contributions and enhancing menu functionality. 🚀
 
 ### Semantic HTML5
@@ -29,3 +33,7 @@
 ## Please reach out on our website to leave feedback on the food and experience or the social networks
 
 # Thank You from the Restaurant!
+
+### LINK TO PROJECT
+
+https://youtu.be/SdZ0BeioRUs
