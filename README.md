@@ -23,3 +23,7 @@
 ### The video clips show the 50 places around the USA and some of the dishes are from those
 
 ### One video is a recipe of a dish that will be featured or you can make at home
+
+## Please reach out on our website to leave feedback on the food and experience or the social networks
+
+# Thank You from the Restaurant!
